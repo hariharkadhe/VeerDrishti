@@ -1,0 +1,42 @@
+- 2026-08-17T12:45:00+0530: Add FastAPI boilerplate and database connection
+- 2026-08-17T12:58:39+0530: Configure React frontend with Vite and Tailwind
+- 2026-08-17T13:12:19+0530: Setup SQLite database schemas and models
+- 2026-08-17T13:25:58+0530: Create initial REST endpoints for video uploads
+- 2026-08-17T13:39:38+0530: Add YOLOv8 dependency and basic inference script
+- 2026-08-17T13:53:17+0530: Fix CORS issues between frontend and backend
+- 2026-08-17T14:06:57+0530: Implement video frame extraction logic
+- 2026-08-17T14:20:36+0530: Draft Dashboard UI layout
+- 2026-08-17T14:34:16+0530: Add routing for React frontend
+- 2026-08-17T14:47:55+0530: Build Camera management UI components
+- 2026-08-17T15:01:35+0530: Integrate Leaflet for geospatial mapping
+- 2026-08-17T15:15:14+0530: Create custom Map markers for cameras
+- 2026-08-17T15:28:54+0530: Refine YOLOv8 detection thresholds
+- 2026-08-17T15:42:33+0530: Implement Stray Cattle detection heuristic
+- 2026-08-17T15:56:13+0530: Add Video Analysis page layout
+- 2026-08-17T16:09:52+0530: Fix file upload state management in React
+- 2026-08-17T16:23:32+0530: Connect frontend to backend video processing API
+- 2026-08-17T16:37:11+0530: Implement Helmet Violation overlap logic
+- 2026-08-17T16:50:51+0530: Fix boundary bugs in helmet IoU calculation
+- 2026-08-17T17:04:30+0530: Add Garbage Dump detection logic
+- 2026-08-17T17:18:10+0530: Filter out false positive vehicles from garbage classes
+- 2026-08-17T17:31:49+0530: Setup background tasks for async video processing
+- 2026-08-17T17:45:29+0530: Add Live Alerts grid UI
+- 2026-08-17T17:59:08+0530: Implement alert severity color coding
+- 2026-08-17T18:12:48+0530: Fix CSS grid overflow issues on alerts page
+- 2026-08-17T18:26:27+0530: Build stat cards for Dashboard
+- 2026-08-17T18:40:07+0530: Wire up real-time stats to backend API
+- 2026-08-17T18:53:46+0530: Add Recharts for volume metrics
+- 2026-08-17T19:07:26+0530: Fix timestamp parsing for charts
+- 2026-08-17T19:21:05+0530: Improve UI glassmorphism effects
+- 2026-08-17T19:34:45+0530: Add custom glowing icons
+- 2026-08-17T19:48:24+0530: Implement alert aggregation to prevent spam
+- 2026-08-17T20:02:04+0530: Add evidence snapshot generation
+- 2026-08-17T20:15:43+0530: Serve static evidence files from FastAPI
+- 2026-08-17T20:29:23+0530: Display evidence images on frontend cards
+- 2026-08-17T20:43:02+0530: Fix image overwriting bug for simultaneous events
+- 2026-08-17T20:56:42+0530: Add manual action buttons to alerts
+- 2026-08-17T21:10:21+0530: Implement dispatch and acknowledge state flows
+- 2026-08-17T21:24:01+0530: Add delete functionality for resolved alerts
+- 2026-08-17T21:37:40+0530: Plot active alerts on geospatial map
+- 2026-08-17T21:51:20+0530: Fix map marker overlapping issue
+- 2026-08-17T22:05:00+0530: Final UI polish and README documentation
